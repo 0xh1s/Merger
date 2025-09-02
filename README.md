@@ -1,0 +1,1 @@
+This script generates all possible combinations of two or more words, including uppercase, lowercase, and mixed-case variants. Perfect for brute-force testing, username or password list generation, or just exploring creative word combinations.
